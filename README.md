@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YameenMalik
-- 👀 I’m interested in data science, blockchain, development, video games and football.
+- 👀 I’m interested in data science, blockchain, automation, video games and football.
 - 🌱 I’m currently learning about side-chains, rollups, financial markets and how to build a great team!
 
 <!---
